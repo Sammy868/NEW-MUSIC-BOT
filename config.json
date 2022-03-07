@@ -1,8 +1,8 @@
 {
-  "default_prefix" : "+",
- "owner" :  ["YOUR ID"],
+ "default_prefix" : "+",
+ "owner" :  ["719767204677025802"],
  "DB": "mongodb+srv://ESPORTS:OO11C6gUCF8b3Ikl@esportss.nl393.mongodb.net/paras?retryWrites=true&w=majority",
-"log":  "LOG CHANNEL ID", 
+"log": "900909668363288586", 
 "spotifyID" : "3c772cb0fa1642159603a1c897ddbfaf",
 "spotifySecret": "f1c4d9fce1d44fc4bf93145b8b3b2ed5",
 "nodes":[
